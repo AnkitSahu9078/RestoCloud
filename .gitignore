@@ -1,0 +1,14 @@
+# XAMPP files
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+# Database configuration (if it contains sensitive information)
+# components/connect.php
+
+# Uploaded images (optional, you may want to include these)
+# uploaded_img/*
+
+# Temporary files
+*.tmp
